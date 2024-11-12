@@ -1,4 +1,4 @@
-# 🐉 Padrão Observer - Reino Encantado
+# 🐉 Reino Encantado
 
 Este projeto implementa o **padrão Observer** em um cenário divertido no qual um **Dragão** muda de humor, e diferentes **Aventureiros** reagem automaticamente. 🏰🧙‍♂️🛡️
 
